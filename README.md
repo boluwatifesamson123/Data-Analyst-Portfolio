@@ -1,2 +1,12 @@
 # Data-Analyst Portfolio
-This is a Sales dashboard of Digital echoes across different regions and countries for a period of eight years.
+Welcome to my Data Analyst Portfolio! I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights that support informed business decisions.
+
+Tools & Technologies
+
+* Microsoft Excel
+* SQL
+* Power BI
+* Data Visualization
+* Data Cleaning and Analysis    
+
+This repository contains my data analytics projects, demonstrating my ability to clean, analyse, visualize, and interpret data.
